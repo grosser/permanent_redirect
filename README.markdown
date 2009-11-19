@@ -4,6 +4,8 @@ Install
 =======
     script/plugin install git://github.com/grosser/permanent_redirect.git
 
+(There is no step 2 ...)
+
 Author
 ======
 [Michael Grosser](http://pragmatig.wordpress.com)  
