@@ -1,0 +1,1 @@
+require 'permanent_redirect'
